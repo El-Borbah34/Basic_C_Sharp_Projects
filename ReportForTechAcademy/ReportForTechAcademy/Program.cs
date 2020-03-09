@@ -10,6 +10,30 @@ namespace ReportForTechAcademy
     {
         static void Main(string[] args)
         {
+            // Custom Function Declarations
+
+            /// makes sure a string of user input is either "true" or "false"
+            /// only returns the string once "true" or "false"
+            string CheckForBoolean(string inputToCheck)
+            {
+                inputToCheck = inputToCheck.ToLower();
+
+                while (inputToCheck != "true" && inputToCheck != "false")
+                // if input is not valid, i.e not equal to true / false
+                {
+                    // get new input
+                    Console.WriteLine("Please enter either true or false.");
+                    inputToCheck = Console.ReadLine().ToLower();
+                }
+
+                // this will only happen if input is valid, so technically it operates as 'else'
+                return inputToCheck;
+            }
+
+
+            ///////////////////////////////////////////////////////////////////////////
+            // start of Main() program
+
             Console.WriteLine("The Tech Academy");
             Console.ReadLine();
             Console.WriteLine("Student Daily Report.");
@@ -23,7 +47,7 @@ namespace ReportForTechAcademy
             int pgNum = Convert.ToInt32(pageNumber);
 
             Console.WriteLine("Do you need help with anything? Please answer with, 'true' or 'false'");
-            string help = Console.ReadLine();
+            string help = CheckForBoolean(Console.ReadLine());
             bool helpneeded = Convert.ToBoolean(help);
 
             Console.WriteLine("Were there any positive experiences you'd like to share? Please give specifics.");
@@ -39,8 +63,6 @@ namespace ReportForTechAcademy
             Console.WriteLine("Thank you for your answers. An Instructor will respond to this shortly. Have a great day!");
 
             Console.ReadLine();
-
-           
         }
     }
 }

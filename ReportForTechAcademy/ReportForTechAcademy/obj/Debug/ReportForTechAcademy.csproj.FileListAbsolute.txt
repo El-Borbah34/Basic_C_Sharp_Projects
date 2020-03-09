@@ -4,3 +4,9 @@ C:\Users\Hal 9000\source\repos\ReportForTechAcademy\ReportForTechAcademy\bin\Deb
 C:\Users\Hal 9000\source\repos\ReportForTechAcademy\ReportForTechAcademy\obj\Debug\ReportForTechAcademy.csprojAssemblyReference.cache
 C:\Users\Hal 9000\source\repos\ReportForTechAcademy\ReportForTechAcademy\obj\Debug\ReportForTechAcademy.exe
 C:\Users\Hal 9000\source\repos\ReportForTechAcademy\ReportForTechAcademy\obj\Debug\ReportForTechAcademy.pdb
+C:\Users\Hal 9000\Desktop\Basic-C-Sharp-Projects\ReportForTechAcademy\ReportForTechAcademy\bin\Debug\ReportForTechAcademy.exe.config
+C:\Users\Hal 9000\Desktop\Basic-C-Sharp-Projects\ReportForTechAcademy\ReportForTechAcademy\bin\Debug\ReportForTechAcademy.exe
+C:\Users\Hal 9000\Desktop\Basic-C-Sharp-Projects\ReportForTechAcademy\ReportForTechAcademy\bin\Debug\ReportForTechAcademy.pdb
+C:\Users\Hal 9000\Desktop\Basic-C-Sharp-Projects\ReportForTechAcademy\ReportForTechAcademy\obj\Debug\ReportForTechAcademy.csprojAssemblyReference.cache
+C:\Users\Hal 9000\Desktop\Basic-C-Sharp-Projects\ReportForTechAcademy\ReportForTechAcademy\obj\Debug\ReportForTechAcademy.exe
+C:\Users\Hal 9000\Desktop\Basic-C-Sharp-Projects\ReportForTechAcademy\ReportForTechAcademy\obj\Debug\ReportForTechAcademy.pdb
