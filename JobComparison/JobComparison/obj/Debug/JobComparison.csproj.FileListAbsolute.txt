@@ -1,0 +1,6 @@
+C:\Users\Hal 9000\source\repos\JobComparison\JobComparison\bin\Debug\JobComparison.exe.config
+C:\Users\Hal 9000\source\repos\JobComparison\JobComparison\bin\Debug\JobComparison.exe
+C:\Users\Hal 9000\source\repos\JobComparison\JobComparison\bin\Debug\JobComparison.pdb
+C:\Users\Hal 9000\source\repos\JobComparison\JobComparison\obj\Debug\JobComparison.csprojAssemblyReference.cache
+C:\Users\Hal 9000\source\repos\JobComparison\JobComparison\obj\Debug\JobComparison.exe
+C:\Users\Hal 9000\source\repos\JobComparison\JobComparison\obj\Debug\JobComparison.pdb
