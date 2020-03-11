@@ -1,0 +1,12 @@
+C:\Users\Hal 9000\source\repos\Loops\Loops\bin\Debug\Loops.exe.config
+C:\Users\Hal 9000\source\repos\Loops\Loops\bin\Debug\Loops.exe
+C:\Users\Hal 9000\source\repos\Loops\Loops\bin\Debug\Loops.pdb
+C:\Users\Hal 9000\source\repos\Loops\Loops\obj\Debug\Loops.csprojAssemblyReference.cache
+C:\Users\Hal 9000\source\repos\Loops\Loops\obj\Debug\Loops.exe
+C:\Users\Hal 9000\source\repos\Loops\Loops\obj\Debug\Loops.pdb
+C:\Users\Hal 9000\Desktop\Basic-C-Sharp-Projects\Loops\Loops\bin\Debug\Loops.exe.config
+C:\Users\Hal 9000\Desktop\Basic-C-Sharp-Projects\Loops\Loops\bin\Debug\Loops.exe
+C:\Users\Hal 9000\Desktop\Basic-C-Sharp-Projects\Loops\Loops\bin\Debug\Loops.pdb
+C:\Users\Hal 9000\Desktop\Basic-C-Sharp-Projects\Loops\Loops\obj\Debug\Loops.csprojAssemblyReference.cache
+C:\Users\Hal 9000\Desktop\Basic-C-Sharp-Projects\Loops\Loops\obj\Debug\Loops.exe
+C:\Users\Hal 9000\Desktop\Basic-C-Sharp-Projects\Loops\Loops\obj\Debug\Loops.pdb
