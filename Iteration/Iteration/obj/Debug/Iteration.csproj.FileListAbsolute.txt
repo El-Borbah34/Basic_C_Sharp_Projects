@@ -1,0 +1,6 @@
+C:\Users\Hal 9000\source\repos\Iteration\Iteration\bin\Debug\Iteration.exe.config
+C:\Users\Hal 9000\source\repos\Iteration\Iteration\bin\Debug\Iteration.exe
+C:\Users\Hal 9000\source\repos\Iteration\Iteration\bin\Debug\Iteration.pdb
+C:\Users\Hal 9000\source\repos\Iteration\Iteration\obj\Debug\Iteration.csprojAssemblyReference.cache
+C:\Users\Hal 9000\source\repos\Iteration\Iteration\obj\Debug\Iteration.exe
+C:\Users\Hal 9000\source\repos\Iteration\Iteration\obj\Debug\Iteration.pdb
