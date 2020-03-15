@@ -11,14 +11,9 @@ namespace Branching
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome to Package Express. Please follow the instructions below.");
-            Console.WriteLine("Please enter the weight of your package, Please use a whole number: ");
-            int weight = Convert.ToInt32(Console.ReadLine());
 
-            if (weight >= 50)
-            {
-                Console.WriteLine("Its too fatty to be shipped via Package Express. Have a great day, chump.");
-            }
-                                                                                //ask if for 
+            Console.WriteLine("Please enter the weight of your package, Please use a whole number: ");
+            int weight = Convert.ToInt32(Console.ReadLine());                                                                   //ask if for 
             Console.WriteLine("Please enter the package width in whole numbers.");
             int width = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Please enter the package height in whole numbers.");
@@ -26,15 +21,16 @@ namespace Branching
             Console.WriteLine("Please enter the package length in whole numbers.");
             int length = Convert.ToInt32(Console.ReadLine());
 
-            if (width >= 50 || height >= 50 || length >= 50)
+            if (width >= 50 || height >= 50 || length >= 50 || weight >= 50)
             {
                 Console.WriteLine("Package is too fatty to be shipped, doggy.");    //ask Fy to help insert a return, to get correct data, and then continue program
             }
+            else
+            {
+                decimal quote = (width * height * length * weight) / 100;
 
-            decimal quote = (width * height * length * weight) / 100;
-
-            Console.WriteLine("Your estimated total for shipping this package is: $" +quote);
-
+                Console.WriteLine("Your estimated total for shipping this package is: $" + quote);
+            }
             Console.ReadLine();
 
 
