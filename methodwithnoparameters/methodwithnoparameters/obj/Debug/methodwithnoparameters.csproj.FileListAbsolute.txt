@@ -1,0 +1,6 @@
+C:\Users\Hal 9000\source\repos\methodwithnoparameters\methodwithnoparameters\bin\Debug\methodwithnoparameters.exe.config
+C:\Users\Hal 9000\source\repos\methodwithnoparameters\methodwithnoparameters\bin\Debug\methodwithnoparameters.exe
+C:\Users\Hal 9000\source\repos\methodwithnoparameters\methodwithnoparameters\bin\Debug\methodwithnoparameters.pdb
+C:\Users\Hal 9000\source\repos\methodwithnoparameters\methodwithnoparameters\obj\Debug\methodwithnoparameters.csprojAssemblyReference.cache
+C:\Users\Hal 9000\source\repos\methodwithnoparameters\methodwithnoparameters\obj\Debug\methodwithnoparameters.exe
+C:\Users\Hal 9000\source\repos\methodwithnoparameters\methodwithnoparameters\obj\Debug\methodwithnoparameters.pdb
