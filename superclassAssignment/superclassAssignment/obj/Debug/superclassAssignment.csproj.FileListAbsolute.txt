@@ -1,0 +1,6 @@
+C:\Users\Hal 9000\source\repos\superclassAssignment\superclassAssignment\bin\Debug\superclassAssignment.exe.config
+C:\Users\Hal 9000\source\repos\superclassAssignment\superclassAssignment\bin\Debug\superclassAssignment.exe
+C:\Users\Hal 9000\source\repos\superclassAssignment\superclassAssignment\bin\Debug\superclassAssignment.pdb
+C:\Users\Hal 9000\source\repos\superclassAssignment\superclassAssignment\obj\Debug\superclassAssignment.csprojAssemblyReference.cache
+C:\Users\Hal 9000\source\repos\superclassAssignment\superclassAssignment\obj\Debug\superclassAssignment.exe
+C:\Users\Hal 9000\source\repos\superclassAssignment\superclassAssignment\obj\Debug\superclassAssignment.pdb
