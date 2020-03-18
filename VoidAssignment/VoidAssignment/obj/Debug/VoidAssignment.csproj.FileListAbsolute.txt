@@ -1,0 +1,6 @@
+C:\Users\Hal 9000\source\repos\VoidAssignment\VoidAssignment\obj\Debug\VoidAssignment.csprojAssemblyReference.cache
+C:\Users\Hal 9000\source\repos\VoidAssignment\VoidAssignment\bin\Debug\VoidAssignment.exe.config
+C:\Users\Hal 9000\source\repos\VoidAssignment\VoidAssignment\bin\Debug\VoidAssignment.exe
+C:\Users\Hal 9000\source\repos\VoidAssignment\VoidAssignment\bin\Debug\VoidAssignment.pdb
+C:\Users\Hal 9000\source\repos\VoidAssignment\VoidAssignment\obj\Debug\VoidAssignment.exe
+C:\Users\Hal 9000\source\repos\VoidAssignment\VoidAssignment\obj\Debug\VoidAssignment.pdb
