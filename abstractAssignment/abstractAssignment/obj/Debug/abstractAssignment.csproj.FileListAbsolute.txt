@@ -1,0 +1,6 @@
+C:\Users\Hal 9000\source\repos\abstractAssignment\abstractAssignment\bin\Debug\abstractAssignment.exe.config
+C:\Users\Hal 9000\source\repos\abstractAssignment\abstractAssignment\bin\Debug\abstractAssignment.exe
+C:\Users\Hal 9000\source\repos\abstractAssignment\abstractAssignment\bin\Debug\abstractAssignment.pdb
+C:\Users\Hal 9000\source\repos\abstractAssignment\abstractAssignment\obj\Debug\abstractAssignment.csprojAssemblyReference.cache
+C:\Users\Hal 9000\source\repos\abstractAssignment\abstractAssignment\obj\Debug\abstractAssignment.exe
+C:\Users\Hal 9000\source\repos\abstractAssignment\abstractAssignment\obj\Debug\abstractAssignment.pdb
