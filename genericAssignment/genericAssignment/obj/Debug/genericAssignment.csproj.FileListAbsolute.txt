@@ -1,0 +1,6 @@
+C:\Users\Hal 9000\source\repos\genericAssignment\genericAssignment\bin\Debug\genericAssignment.exe.config
+C:\Users\Hal 9000\source\repos\genericAssignment\genericAssignment\bin\Debug\genericAssignment.exe
+C:\Users\Hal 9000\source\repos\genericAssignment\genericAssignment\bin\Debug\genericAssignment.pdb
+C:\Users\Hal 9000\source\repos\genericAssignment\genericAssignment\obj\Debug\genericAssignment.csprojAssemblyReference.cache
+C:\Users\Hal 9000\source\repos\genericAssignment\genericAssignment\obj\Debug\genericAssignment.exe
+C:\Users\Hal 9000\source\repos\genericAssignment\genericAssignment\obj\Debug\genericAssignment.pdb
