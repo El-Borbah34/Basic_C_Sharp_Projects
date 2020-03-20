@@ -8,6 +8,8 @@ namespace abstractAssignment
 {
     public class Employee : Person, IQuittable // New coode for Assignment on pg. 179
     {
+        public int id { get; set; }
+
         public override void SayName()
         {
             base.SayName();
@@ -18,7 +20,32 @@ namespace abstractAssignment
             Console.ReadLine();
         }
 
+        public static bool operator == (Employee employee, Employee employee1)
+        { 
+            if (employee.id == employee1.id)
+            {
+                Console.WriteLine("There are two people with the same ID.");
+                return true;
+            }
+            else
+            {
+                Console.WriteLine("Perfect, nobody has your employee ID");
+                return false;
+            }
+        }
 
-
+        public static bool operator != (Employee employee, Employee employee1)
+        {
+            if (employee.id != employee1.id)
+            {
+                Console.WriteLine("Perfect, nobody has your employee ID");
+                return false;
+            }
+            else
+            {
+                Console.WriteLine("There are two people with the same ID.");
+                return true;
+            }
+        }
     }
 }
