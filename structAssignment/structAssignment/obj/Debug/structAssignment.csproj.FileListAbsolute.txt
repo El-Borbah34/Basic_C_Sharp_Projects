@@ -1,0 +1,6 @@
+C:\Users\Hal 9000\source\repos\structAssignment\structAssignment\bin\Debug\structAssignment.exe.config
+C:\Users\Hal 9000\source\repos\structAssignment\structAssignment\bin\Debug\structAssignment.exe
+C:\Users\Hal 9000\source\repos\structAssignment\structAssignment\bin\Debug\structAssignment.pdb
+C:\Users\Hal 9000\source\repos\structAssignment\structAssignment\obj\Debug\structAssignment.csprojAssemblyReference.cache
+C:\Users\Hal 9000\source\repos\structAssignment\structAssignment\obj\Debug\structAssignment.exe
+C:\Users\Hal 9000\source\repos\structAssignment\structAssignment\obj\Debug\structAssignment.pdb
