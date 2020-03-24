@@ -1,0 +1,6 @@
+C:\Users\Hal 9000\source\repos\lambdaAssignment\lambdaAssignment\bin\Debug\lambdaAssignment.exe.config
+C:\Users\Hal 9000\source\repos\lambdaAssignment\lambdaAssignment\bin\Debug\lambdaAssignment.exe
+C:\Users\Hal 9000\source\repos\lambdaAssignment\lambdaAssignment\bin\Debug\lambdaAssignment.pdb
+C:\Users\Hal 9000\source\repos\lambdaAssignment\lambdaAssignment\obj\Debug\lambdaAssignment.csprojAssemblyReference.cache
+C:\Users\Hal 9000\source\repos\lambdaAssignment\lambdaAssignment\obj\Debug\lambdaAssignment.exe
+C:\Users\Hal 9000\source\repos\lambdaAssignment\lambdaAssignment\obj\Debug\lambdaAssignment.pdb
