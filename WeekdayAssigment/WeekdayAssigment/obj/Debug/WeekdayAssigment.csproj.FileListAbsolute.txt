@@ -1,0 +1,6 @@
+C:\Users\Hal 9000\source\repos\WeekdayAssigment\WeekdayAssigment\bin\Debug\WeekdayAssigment.exe.config
+C:\Users\Hal 9000\source\repos\WeekdayAssigment\WeekdayAssigment\bin\Debug\WeekdayAssigment.exe
+C:\Users\Hal 9000\source\repos\WeekdayAssigment\WeekdayAssigment\bin\Debug\WeekdayAssigment.pdb
+C:\Users\Hal 9000\source\repos\WeekdayAssigment\WeekdayAssigment\obj\Debug\WeekdayAssigment.exe
+C:\Users\Hal 9000\source\repos\WeekdayAssigment\WeekdayAssigment\obj\Debug\WeekdayAssigment.pdb
+C:\Users\Hal 9000\source\repos\WeekdayAssigment\WeekdayAssigment\obj\Debug\WeekdayAssigment.csprojAssemblyReference.cache
