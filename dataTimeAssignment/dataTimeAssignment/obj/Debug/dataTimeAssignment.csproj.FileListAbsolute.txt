@@ -1,0 +1,6 @@
+C:\Users\Hal 9000\source\repos\dataTimeAssignment\dataTimeAssignment\bin\Debug\dataTimeAssignment.exe.config
+C:\Users\Hal 9000\source\repos\dataTimeAssignment\dataTimeAssignment\bin\Debug\dataTimeAssignment.exe
+C:\Users\Hal 9000\source\repos\dataTimeAssignment\dataTimeAssignment\bin\Debug\dataTimeAssignment.pdb
+C:\Users\Hal 9000\source\repos\dataTimeAssignment\dataTimeAssignment\obj\Debug\dataTimeAssignment.csprojAssemblyReference.cache
+C:\Users\Hal 9000\source\repos\dataTimeAssignment\dataTimeAssignment\obj\Debug\dataTimeAssignment.exe
+C:\Users\Hal 9000\source\repos\dataTimeAssignment\dataTimeAssignment\obj\Debug\dataTimeAssignment.pdb
