@@ -1,0 +1,6 @@
+C:\Users\Hal 9000\source\repos\FileIOAssignment\FileIOAssignment\bin\Debug\FileIOAssignment.exe.config
+C:\Users\Hal 9000\source\repos\FileIOAssignment\FileIOAssignment\bin\Debug\FileIOAssignment.exe
+C:\Users\Hal 9000\source\repos\FileIOAssignment\FileIOAssignment\bin\Debug\FileIOAssignment.pdb
+C:\Users\Hal 9000\source\repos\FileIOAssignment\FileIOAssignment\obj\Debug\FileIOAssignment.csprojAssemblyReference.cache
+C:\Users\Hal 9000\source\repos\FileIOAssignment\FileIOAssignment\obj\Debug\FileIOAssignment.exe
+C:\Users\Hal 9000\source\repos\FileIOAssignment\FileIOAssignment\obj\Debug\FileIOAssignment.pdb
