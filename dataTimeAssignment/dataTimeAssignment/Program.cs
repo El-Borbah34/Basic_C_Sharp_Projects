@@ -10,18 +10,24 @@ namespace dataTimeAssignment
     {
         static void Main(string[] args)
         {
-            DateTime currentDate = new DateTime();
-            currentDate = DateTime.Now;
+            //DateTime currentDate = new DateTime();
+            //currentDate = DateTime.Now;
+            //Console.WriteLine(currentDate);
+            //Console.WriteLine("\n\nGive a random number, please.");
+            //int userNum = Convert.ToInt32(Console.ReadLine());
+            //DateTime hoursAddedDate = currentDate.AddHours(userNum);
+            //Console.WriteLine("The date is currently {0}. But with our Users added hours, the date and time is currently {1}!", currentDate, hoursAddedDate);
 
-
-            Console.WriteLine(currentDate);
+/*=========================Const/Var/Combine Constructor Assignment=====================================*/
             
-            Console.WriteLine("\n\nGive a random number, please.");
-            int userNum = Convert.ToInt32(Console.ReadLine());
+            const string bossName = "Pierson";
 
-            DateTime hoursAddedDate = currentDate.AddHours(userNum);
+            var girlFriend = "Fy";
+            User currentUser = new User(bossName);
 
-            Console.WriteLine("The date is currently {0}. But with our Users added hours, the date and time is currently {1}!", currentDate, hoursAddedDate);
+            Console.WriteLine("This user's name is {0} and his girlfriend's name is {1}. Pierson is also {2}", currentUser.Name, girlFriend, currentUser.age);
+
+
             Console.ReadLine();
         }
     }
